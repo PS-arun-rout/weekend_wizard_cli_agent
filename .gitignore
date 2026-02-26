@@ -55,3 +55,14 @@ logs/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Optional local docs/utilities
+API_CONNECTION_SUMMARY.md
+CODE_PROCESS_EXPLANATION.md
+list_models.py
+
+# Optional local test scripts
+test_all_apis.py
+test_api.py
+test_joke_debug.py
+test_weather_api.py
